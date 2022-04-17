@@ -1,0 +1,23 @@
+{
+  "name": "Person",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NjokiGithukuE/Person.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NjokiGithukuE/Person/issues"
+  },
+  "homepage": "https://github.com/NjokiGithukuE/Person#readme",
+  "devDependencies": {
+    "jasmine": "^4.1.0"
+  }
+}
